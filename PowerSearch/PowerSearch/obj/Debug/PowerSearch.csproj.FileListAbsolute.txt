@@ -1,0 +1,313 @@
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.29.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.30.0\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.31.0 - Implementing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.33\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.34\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.35\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.36\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.37\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.39_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.40_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.41_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.42_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.43_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.44_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.45_Removing_ThreadPool\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.47_Removing_ThreadPool - Good Working _Cleaned\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.48\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.49 - Responsive C# Thread\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.50 - Responsive - No Flickering - SuperFast\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.52\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.53\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.54\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.56 - Clean\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.57\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.58\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.61\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.62\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.63\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.64\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.65\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\Tools\Carlos\PowerSearch_v.65_Working\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojResolveAssemblyReference.cache
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+D:\OneDrive - Verifone\Tools\Carlos\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.Cache
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe.config
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\bin\Debug\PowerSearch.exe
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\bin\Debug\PowerSearch.pdb
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csprojAssemblyReference.cache
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Form1.resources
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.Properties.Resources.resources
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.csproj.GenerateResource.cache
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.exe
+C:\Users\cborr\Documents\Programming\C#_Carlos_Workspace\PowerSearch_History\PowerSearch_v.65_Working - Original - Backup\PowerSearch\PowerSearch\obj\Debug\PowerSearch.pdb
